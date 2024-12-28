@@ -1,0 +1,10 @@
+2024-05-21 00:24:29,735 INFO processing each element 1
+2024-05-21 00:24:29,735 INFO processing each element hello
+2024-05-21 00:24:29,735 INFO processing each element [2, 'world']
+2024-05-21 00:24:29,735 INFO processing sublist element: 2
+2024-05-21 00:24:29,736 INFO processing sublist element: world
+2024-05-21 00:24:29,736 INFO processing each element 3
+2024-05-21 00:24:29,736 INFO processing each element ['python', 4]
+2024-05-21 00:24:29,736 INFO processing sublist element: python
+2024-05-21 00:24:29,736 INFO processing sublist element: 4
+2024-05-21 00:24:29,736 INFO The final result is: [1, 2, 3, 4], ['hello']

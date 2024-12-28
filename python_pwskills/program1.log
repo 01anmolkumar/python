@@ -1,0 +1,7 @@
+ERROR:root:This is my zero division division by zero
+ERROR:root:This is my zero division division by zero
+ERROR:root:This is my error [Errno 2] No such file or directory: 'example1.txt'
+ERROR:root:This is my error [Errno 2] No such file or directory: 'example1.txt'
+ERROR:root:This is my error [Errno 2] No such file or directory: 'example1.taxt'
+ERROR:root:This is my error [Errno 2] No such file or directory: 'example1.taxt'
+ERROR:root:This is my zero divison division by zero
